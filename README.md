@@ -1,4 +1,4 @@
-# Financial Tracker-VITyarthi-Project-25BCE10791-Neelabh-Mishra-
+# Financial Tracker-VITyarthi-Project-25BCE11000-Ankit Yadav-
 # Simple Expense Tracker
 
 A beginner-friendly Python console application to track monthly expenses by date, category, and amount. The program allows easy entry of expenses and displays a summary graphically using a bar chart.
